@@ -1,4 +1,4 @@
-#Random, while loop, tomada de decisão, funções
+#bibliotecas, while loop, tomada de decisão
 
 import random
     
