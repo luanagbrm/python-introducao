@@ -1,5 +1,3 @@
-import math
-
 #Sequência de Fibonacci
 
 #Formada pela soma dos dois números anteriores ao termo na sequência. 
