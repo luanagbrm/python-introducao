@@ -34,17 +34,3 @@ else:
         v1 = v2
         v2 = vSequencia
         i += 1
-
-
-def error():
-    try:
-        nFinal = int(input('Digite um número inteiro positivo acima de 0\n'))
-        is_int = True
-    except:
-        print('Por favor, siga as intruções')
-    
-
-
-
-
-
